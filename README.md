@@ -1,4 +1,4 @@
-# kc-houseprices.ipynb
+# Predicting House Prices Using Supervised Learning Regression.ipynb
 This dataset contains over 21613 houses and their characteristics, the goal is to find the best model to predict a house’s price.
 We went ahead to preprocess the dataset. During the preprocessing stage, we discovered that the dataset had no missing values but noticed that some variables had input errors.
 The errors were corrected then we proceeded to the visualization stage for the distribution of important features. We used boxplot and plotted a correlation heatmap to find the correlation between our inputs and targets.
